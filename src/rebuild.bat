@@ -1,0 +1,1 @@
+echo rebuild %1!

@@ -1,0 +1,1 @@
+echo clean  %1!
