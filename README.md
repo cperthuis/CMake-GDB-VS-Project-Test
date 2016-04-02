@@ -10,6 +10,9 @@ the Visual Studio Generator of CMake.
 The CMake fork with GDB project support can be found here:
 https://github.com/cperthuis/CMake
 
+A binary release is also available: 
+https://github.com/cperthuis/CMake/releases
+
 
 Usage
 ============
